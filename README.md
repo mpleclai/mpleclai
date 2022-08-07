@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, SwiftUI**
 
-- 💬 Ask me about **Jetpack Compose, Android Development**
+- 💬 Ask me about **Jetpack Compose, Android Development, Material Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
