@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a stardew valley helper app for iOS**
 
-- 🌱 I’m currently learning **Swift, SwiftUI**
+- 🌱 I’m currently learning **Github Actions**
 
 - 💬 Ask me about **Jetpack Compose, Android Development, Material Design**
 
